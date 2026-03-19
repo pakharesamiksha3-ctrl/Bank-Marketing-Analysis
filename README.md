@@ -65,10 +65,27 @@ Confusion Matrix:
 ---
 
 ## 📊 Results Visualization
-(Add screenshots below)
-Age Distribtion
+
+📊 1. Age Distribution Plot - 
 
 <img width="582" height="453" alt="image" src="https://github.com/user-attachments/assets/172eef5f-050d-485e-b9db-c76351f6b8e2" />
+
+📊 2. Job Distribution Chart -
+
+<img width="1014" height="610" alt="image" src="https://github.com/user-attachments/assets/97fe5186-4fe9-4134-a922-25cc1cf60323" />
+
+📊 3. Campaign / Duration Impact Plot-
+
+<img width="580" height="453" alt="image" src="https://github.com/user-attachments/assets/334ea2aa-65f4-470a-85bf-413c77582d9e" />
+
+📊 4. Correlation Heatmap - 
+
+<img width="851" height="608" alt="image" src="https://github.com/user-attachments/assets/1a3de475-d683-433e-80b0-4540bfd45169" />
+
+🤖 5. Confusion Matrix -
+
+<img width="1433" height="354" alt="image" src="https://github.com/user-attachments/assets/b84fc02b-64d8-4f88-8cf3-4f35eaa737c5" />
+
 
 ---
 
