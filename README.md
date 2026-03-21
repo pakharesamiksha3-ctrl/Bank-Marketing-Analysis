@@ -84,7 +84,7 @@ Confusion Matrix:
 
 🤖 5. Confusion Matrix -
 
-<img width="1433" height="354" alt="image" src="https://github.com/user-attachments/assets/b84fc02b-64d8-4f88-8cf3-4f35eaa737c5" />
+<img width="353" height="94" alt="confusion_matrix" src="https://github.com/user-attachments/assets/fda470dd-dc64-4859-a8e1-0b2ded3d8c16" />
 
 
 ---
